@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://short-hair/sitemapx.xml
+Sitemap: https://pulupuluh.github.io/sitemapx.xml
